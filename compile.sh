@@ -1,0 +1,1 @@
+g++ main.cpp -o rc_controller msl/2d.cpp msl/2d_util.cpp msl/file_util.cpp msl/glut_input.cpp msl/glut_ui.cpp msl/json.cpp msl/serial.cpp msl/serial_sync.cpp msl/serial_util.cpp msl/sprite.cpp msl/string_util.cpp msl/time_util.cpp -lGL -lGLU -lglut -lGLEW -lSOIL -lftgl
